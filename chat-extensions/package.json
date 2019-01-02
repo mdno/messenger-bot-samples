@@ -20,7 +20,7 @@
     "quality": "yarn lint-js; yarn lint-css; yarn test"
   },
   "dependencies": {
-    "babel-cli": "^6.22.2",
+    "babel-cli": "^6.24.1",
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
     "babel-plugin-module-resolver": "^2.5.0",
@@ -51,14 +51,14 @@
     "react-dom": "^16.0.1",
     "react-weui": "^1.0.3",
     "recess": "^1.1.9",
-    "request": "^2.79.0",
+    "request": "^2.81.0",
     "serve-favicon": "^2.1.7",
     "socket.io": "^1.7.2",
     "style-loader": "^0.13.1",
     "svgo": "0.7.1",
     "uglify-loader": "^1.4.0",
     "url-loader": "^0.5.8",
-    "webpack": "^2.2.1",
+    "webpack": "^2.3.3",
     "weui": "^1.1.1"
   },
   "devDependencies": {
