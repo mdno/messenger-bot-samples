@@ -42,7 +42,7 @@
     "lodash": "^4.17.4",
     "morgan": "~1.7.0",
     "nodemon": "^1.11.0",
-    "react": "^15.4.2",
+    "react": "^16.5.0",
     "react-dom": "^16.0.1",
     "react-weui": "^1.0.3",
     "recess": "^1.1.9",
